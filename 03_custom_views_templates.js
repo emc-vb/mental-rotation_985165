@@ -9,3 +9,6 @@
 // and has to call magpie.findNextView() eventually to proceed to the next view (or the next trial in this view),
 // if it is an trial view it also makes sense to call magpie.trial_data.push(trial_data) to save the trial information
 
+// ---------------------------------------------------------------------------------------------
+// The enable response dict contains a generator function for every view type we support
+// The generator gets the config dict, CT, the answer_container_generator and the startingTime as input
