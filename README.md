@@ -1,6 +1,7 @@
-# Departure Point
+# Mental Rotation Task
 
 This repository contains a basic mental roation task using materials from Ganis & Kievit (2015).
+
 Ganis, G. and Kievit, R.A., 2015. A New Set of Three-Dimensional Shapes for Investigating Mental Rotation Processes: Validation Data and Stimulus Set. Journal of Open Psychology Data, 3(1),
 
 ## Online demo
