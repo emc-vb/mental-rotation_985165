@@ -4,7 +4,7 @@ This repository contains a basic mental roation task using materials from Ganis 
 
 Ganis, G. and Kievit, R.A., 2015. A New Set of Three-Dimensional Shapes for Investigating Mental Rotation Processes: Validation Data and Stimulus Set. Journal of Open Psychology Data, 3(1),
 
-## Online demo
+## Experiment
 
 The experiment uses a 2 (rotation: 50 degrees, 150 degrees) x 2 (match: same, different) within subjects design.
 
