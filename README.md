@@ -13,4 +13,4 @@ Participants view 48 pairs of images of 3D shapes and respond (forced binary cho
 
 ## Do the experiment
 
-You can have a look at the experiment [here](mental-rotation-task-evonbutler.netlify.app) and do it by yourself.
+You can have a look at the experiment [here](https://mental-rotation-task-evonbutler.netlify.app/) and do it by yourself.
